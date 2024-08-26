@@ -1,0 +1,3 @@
+[submodule "STM32F411_JE/STM32F411_JE/Librerias/JE"]
+	path = STM32F411_JE/STM32F411_JE/Librerias/JE
+	url = https://github.com/JABB09/Kicad_Library.git
