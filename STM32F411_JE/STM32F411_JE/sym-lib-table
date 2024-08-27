@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "STM32F411")(type "KiCad")(uri "${KIPRJMOD}/Librerias/JE/MODULES/STM32F411CEU6/STM32F411CEU6.kicad_sym")(options "")(descr ""))
   (lib (name "USB_TYPE_C")(type "KiCad")(uri "${KIPRJMOD}/Librerias/JE/MODULES/USB TYPE C/USB4105-GF-A.kicad_sym")(options "")(descr ""))
+  (lib (name "ap7343")(type "KiCad")(uri "D:/Documentod KiCAD/LIBRARY/MODULES/AP7343_REGULADOR/ap7343.kicad_sym")(options "")(descr ""))
 )
