@@ -5049,6 +5049,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.81 101.6) (xy 135.89 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76284a72-dfeb-4033-b044-4d4f3b9a3024")
+	)
+	(wire
+		(pts
 			(xy 111.76 171.45) (xy 116.84 171.45)
 		)
 		(stroke
@@ -5349,6 +5359,16 @@
 	)
 	(wire
 		(pts
+			(xy 130.81 106.68) (xy 135.89 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0d6d016-73f0-43a1-a41f-72d4bd3a2367")
+	)
+	(wire
+		(pts
 			(xy 175.26 147.32) (xy 180.34 147.32)
 		)
 		(stroke
@@ -5406,6 +5426,16 @@
 			(type default)
 		)
 		(uuid "ab5b60ea-8c31-4bd8-8991-4c728cfb9cb7")
+	)
+	(wire
+		(pts
+			(xy 130.81 104.14) (xy 135.89 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab8934aa-3efd-46ad-a1e6-e014a9d41c74")
 	)
 	(wire
 		(pts
@@ -6521,6 +6551,17 @@
 		)
 		(uuid "2ed96d3e-6f10-44d8-82bf-78e2e56af955")
 	)
+	(label "PC15"
+		(at 130.81 106.68 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2f27beb0-4e04-4e59-a5ec-d51bfa2948a8")
+	)
 	(label "3.3V"
 		(at 38.1 185.42 180)
 		(fields_autoplaced yes)
@@ -7016,6 +7057,17 @@
 		)
 		(uuid "99b35fc7-b92a-48ba-be4f-7061c3a975ea")
 	)
+	(label "PC14"
+		(at 130.81 104.14 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "99f44021-14be-4441-ad2c-5c1b2051e6bf")
+	)
 	(label "SWDIO"
 		(at 269.24 148.59 0)
 		(fields_autoplaced yes)
@@ -7147,6 +7199,17 @@
 			(justify left bottom)
 		)
 		(uuid "b19f6a37-e7fe-4198-af5a-b47d30a16e62")
+	)
+	(label "PC13"
+		(at 130.81 101.6 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "bb8afba9-232c-4612-ab09-3903f97e02d7")
 	)
 	(label "PB6"
 		(at 180.34 180.34 0)
