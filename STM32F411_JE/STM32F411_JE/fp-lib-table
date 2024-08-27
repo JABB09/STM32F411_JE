@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "STM32F411")(type "KiCad")(uri "${KIPRJMOD}/Librerias/JE/MODULES/STM32F411CEU6/STM32F411CEU6.pretty")(options "")(descr ""))
+  (lib (name "USB TYPE C")(type "KiCad")(uri "${KIPRJMOD}/Librerias/JE/MODULES/USB TYPE C/USB TYPE C.pretty")(options "")(descr ""))
+)
