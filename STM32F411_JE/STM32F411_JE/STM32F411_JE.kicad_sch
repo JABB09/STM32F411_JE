@@ -4012,12 +4012,6 @@
 		(uuid "055f6c13-cf1a-4c13-8f09-4881de5e3055")
 	)
 	(junction
-		(at 327.66 148.59)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0a5b6714-fc43-4e8e-a8c8-c18fd9192ecf")
-	)
-	(junction
 		(at 66.04 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4389,16 +4383,6 @@
 	)
 	(wire
 		(pts
-			(xy 327.66 148.59) (xy 342.9 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "24a8b8a2-51ed-4e24-ac92-82d33fb5491a")
-	)
-	(wire
-		(pts
 			(xy 246.38 157.48) (xy 242.57 157.48)
 		)
 		(stroke
@@ -4466,16 +4450,6 @@
 			(type default)
 		)
 		(uuid "2d458774-a532-4a87-8c4e-8a0202bc7a92")
-	)
-	(wire
-		(pts
-			(xy 335.28 163.83) (xy 342.9 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2db7c2b3-bca1-4e1c-81b9-a71146bb4401")
 	)
 	(wire
 		(pts
@@ -4579,16 +4553,6 @@
 	)
 	(wire
 		(pts
-			(xy 327.66 143.51) (xy 327.66 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "43c8edbd-2050-4bef-a6bb-94813f6335d7")
-	)
-	(wire
-		(pts
 			(xy 346.71 93.98) (xy 346.71 102.87)
 		)
 		(stroke
@@ -4596,16 +4560,6 @@
 			(type default)
 		)
 		(uuid "44b98f13-4259-49c7-b270-50ff9e8f9939")
-	)
-	(wire
-		(pts
-			(xy 327.66 157.48) (xy 327.66 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "45022131-3992-43d7-82a2-143fad0d8410")
 	)
 	(wire
 		(pts
@@ -4699,7 +4653,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 50.8) (xy 320.04 59.69)
+			(xy 320.04 50.8) (xy 320.04 60.96)
 		)
 		(stroke
 			(width 0)
@@ -4796,16 +4750,6 @@
 			(type default)
 		)
 		(uuid "58bb0702-0ec2-4ebd-85d1-8f069949bdf2")
-	)
-	(wire
-		(pts
-			(xy 311.15 163.83) (xy 320.04 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "58c7ffec-e0c1-4220-84a9-e15c621e1df3")
 	)
 	(wire
 		(pts
@@ -5599,16 +5543,6 @@
 	)
 	(wire
 		(pts
-			(xy 327.66 149.86) (xy 327.66 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bd0213ca-415b-42da-9c05-88b73cfdcf47")
-	)
-	(wire
-		(pts
 			(xy 204.47 50.8) (xy 207.01 50.8)
 		)
 		(stroke
@@ -6298,7 +6232,7 @@
 		)
 		(uuid "01f40f7d-5c54-401c-a9a0-3878b059dfa6")
 	)
-	(label "PB2"
+	(label "PA6"
 		(at 116.84 153.67 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6408,7 +6342,7 @@
 		)
 		(uuid "1a845592-8f8c-428c-bfbe-802bea2a96bf")
 	)
-	(label "PC13"
+	(label "PA12"
 		(at 116.84 189.23 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6430,7 +6364,7 @@
 		)
 		(uuid "1bac8045-0f34-48e4-8cab-d4217e393a7d")
 	)
-	(label "PB8"
+	(label "PA15"
 		(at 180.34 185.42 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6441,7 +6375,7 @@
 		)
 		(uuid "1cb5b477-481e-4112-8b4a-0989ee45a32a")
 	)
-	(label "PB9"
+	(label "PA14"
 		(at 180.34 187.96 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6463,7 +6397,7 @@
 		)
 		(uuid "23e41a52-1c94-460e-9027-ef5e65e5c546")
 	)
-	(label "PC14"
+	(label "PA11"
 		(at 116.84 186.69 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6507,7 +6441,7 @@
 		)
 		(uuid "2b779a95-b0e3-4591-98f0-16cc8dd38e59")
 	)
-	(label "PA0"
+	(label "PA8"
 		(at 116.84 179.07 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6573,7 +6507,7 @@
 		)
 		(uuid "2f508752-aa39-489f-8ae7-436daafd861f")
 	)
-	(label "PA9"
+	(label "PC15"
 		(at 180.34 160.02 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6606,7 +6540,7 @@
 		)
 		(uuid "3896de17-b369-48f9-9ccc-076d9230908c")
 	)
-	(label "NRST"
+	(label "PA9"
 		(at 116.84 181.61 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6639,7 +6573,7 @@
 		)
 		(uuid "43ff9fb5-9044-4793-b30c-481797baf106")
 	)
-	(label "PB1"
+	(label "PA7"
 		(at 116.84 156.21 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6661,7 +6595,7 @@
 		)
 		(uuid "474cb486-42e5-4197-86b4-3e3735fa5994")
 	)
-	(label "PA0"
+	(label "PA10"
 		(at 130.81 81.28 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6705,7 +6639,7 @@
 		)
 		(uuid "4ff1c1d2-2fe1-4fba-9b77-18f97ee1229e")
 	)
-	(label "PA5"
+	(label "PB10"
 		(at 116.84 166.37 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6716,18 +6650,7 @@
 		)
 		(uuid "533bb55c-7140-49de-99f0-072a97995858")
 	)
-	(label "3.3V"
-		(at 311.15 163.83 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "55d4dc81-184c-479f-9a67-eb0244c73db1")
-	)
-	(label "PB7"
+	(label "PB3"
 		(at 180.34 182.88 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6749,7 +6672,7 @@
 		)
 		(uuid "5a77b06f-3875-4311-bdd7-fef0979721c0")
 	)
-	(label "VB"
+	(label "PA13"
 		(at 116.84 191.77 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6771,7 +6694,7 @@
 		)
 		(uuid "60e9a2bb-84fa-4871-94e9-2512a59ce2c5")
 	)
-	(label "PB12"
+	(label "PA4"
 		(at 180.34 147.32 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6793,7 +6716,7 @@
 		)
 		(uuid "63a551b7-7c53-4a6e-ae93-cc52b83b2932")
 	)
-	(label "PB15"
+	(label "PA1"
 		(at 180.34 154.94 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6804,7 +6727,7 @@
 		)
 		(uuid "67cec338-fedc-4cd2-b82e-d0453e325c67")
 	)
-	(label "PA7"
+	(label "PB1"
 		(at 116.84 161.29 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6815,7 +6738,7 @@
 		)
 		(uuid "6aac923f-afc6-4214-9198-4d3ad6e12d1c")
 	)
-	(label "PA3"
+	(label "PB13"
 		(at 116.84 171.45 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6848,18 +6771,7 @@
 		)
 		(uuid "6f71d502-21f7-41d4-9410-20c7156d114b")
 	)
-	(label "VBAT"
-		(at 327.66 143.51 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "73b4762b-1bf5-4ddb-abe7-2d98b8617d3d")
-	)
-	(label "PA8"
+	(label "PA0"
 		(at 180.34 157.48 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6870,7 +6782,7 @@
 		)
 		(uuid "73d311a2-447b-4da8-ac21-1fe742b110d1")
 	)
-	(label "PA12"
+	(label "PB9"
 		(at 180.34 167.64 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6892,7 +6804,7 @@
 		)
 		(uuid "76698099-e461-4cfc-9f21-81655dea104d")
 	)
-	(label "PA15"
+	(label "PB8"
 		(at 180.34 170.18 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6903,7 +6815,7 @@
 		)
 		(uuid "76e41c25-1f49-495f-81b0-7be2c4dd1884")
 	)
-	(label "PB3"
+	(label "PB7"
 		(at 180.34 172.72 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6969,7 +6881,7 @@
 		)
 		(uuid "8a7beffb-cc96-42d1-9d3f-a17335f440ed")
 	)
-	(label "PA4"
+	(label "PB12"
 		(at 116.84 168.91 0)
 		(fields_autoplaced yes)
 		(effects
@@ -6980,7 +6892,7 @@
 		)
 		(uuid "8ac69a64-f0d0-4c2f-88d0-31410011cbaf")
 	)
-	(label "PB10"
+	(label "PA5"
 		(at 116.84 151.13 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7013,7 +6925,7 @@
 		)
 		(uuid "92dc69bc-e5e7-4720-ac51-9ebd9c1fcd14")
 	)
-	(label "PB14"
+	(label "PA2"
 		(at 180.34 152.4 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7035,7 +6947,7 @@
 		)
 		(uuid "94bfc96b-daeb-48a7-8d77-d3d764bc7e52")
 	)
-	(label "PC15"
+	(label "PA10"
 		(at 116.84 184.15 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7123,7 +7035,7 @@
 		)
 		(uuid "a3c88eec-4bb1-4558-bfba-5f4d95d37e16")
 	)
-	(label "PA1"
+	(label "PB15"
 		(at 116.84 176.53 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7145,7 +7057,7 @@
 		)
 		(uuid "a62c1f41-0072-4273-8051-a3ac4a251ec2")
 	)
-	(label "PA11"
+	(label "PC13"
 		(at 180.34 165.1 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7167,7 +7079,7 @@
 		)
 		(uuid "aafd3e5c-57d0-49e1-b184-5a75e5e6d9e9")
 	)
-	(label "PB4"
+	(label "PB6"
 		(at 180.34 175.26 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7211,7 +7123,7 @@
 		)
 		(uuid "bb8afba9-232c-4612-ab09-3903f97e02d7")
 	)
-	(label "PB6"
+	(label "PB4"
 		(at 180.34 180.34 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7222,7 +7134,7 @@
 		)
 		(uuid "c08aa243-3ff5-465e-bffb-cd977d276ee6")
 	)
-	(label "PA2"
+	(label "PB14"
 		(at 116.84 173.99 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7288,7 +7200,7 @@
 		)
 		(uuid "d191e4de-f756-4483-8141-04310559d272")
 	)
-	(label "PA6"
+	(label "PB2"
 		(at 116.84 163.83 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7321,7 +7233,7 @@
 		)
 		(uuid "db353532-2873-4f33-ada0-84a3cfa7f052")
 	)
-	(label "PA10"
+	(label "PC14"
 		(at 180.34 162.56 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7332,7 +7244,7 @@
 		)
 		(uuid "e3bdfd9c-0fc3-4257-ae22-d1baefcd935a")
 	)
-	(label "PB13"
+	(label "PA3"
 		(at 180.34 149.86 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7342,17 +7254,6 @@
 			(justify left bottom)
 		)
 		(uuid "e3d58169-dcb2-4a8a-b621-d9b3dc7aad17")
-	)
-	(label "VB"
-		(at 342.9 163.83 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e3e41d6c-d463-4209-ac3a-97189286a9a5")
 	)
 	(label "PB5"
 		(at 180.34 177.8 0)
@@ -9381,96 +9282,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:BAT54C")
-		(at 327.66 163.83 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "947656cb-a19f-4ef1-96c3-e94dbdf5838e")
-		(property "Reference" "D1"
-			(at 327.66 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "BAT54C"
-			(at 327.66 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 325.755 167.005 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.diodes.com/_files/datasheets/ds11005.pdf"
-			(at 329.692 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "dual schottky barrier diode, common cathode"
-			(at 327.66 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 327.66 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey Part Number" ""
-			(at 327.66 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "26c52d6b-49f8-42ae-b423-fa916b71b245")
-		)
-		(pin "1"
-			(uuid "66a8d570-fec5-4447-8e5f-c3e82dbc1fb6")
-		)
-		(pin "2"
-			(uuid "0a813a6e-86c8-472f-88d7-6ec8a46711de")
-		)
-		(instances
-			(project "STM32F411_JE"
-				(path "/cc6eeeb5-b58a-47ad-9a4d-b3db7a936e8a"
-					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Conn_01x20_Socket")
 		(at 170.18 172.72 180)
 		(unit 1)
@@ -10715,73 +10526,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 342.9 148.59 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c386783e-a44e-4157-bbc2-76006ffbd1fb")
-		(property "Reference" "#PWR08"
-			(at 349.25 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 346.71 148.5899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 342.9 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 342.9 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 342.9 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2c8707b4-41ef-4827-b0b5-568ab5334264")
-		)
-		(instances
-			(project "STM32F411_JE"
-				(path "/cc6eeeb5-b58a-47ad-9a4d-b3db7a936e8a"
-					(reference "#PWR08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 44.45 118.11 180)
 		(unit 1)
@@ -11344,103 +11088,6 @@
 			(project ""
 				(path "/cc6eeeb5-b58a-47ad-9a4d-b3db7a936e8a"
 					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 327.66 153.67 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e429d0cf-5ad7-487c-8d43-5e2ec329f02a")
-		(property "Reference" "C9"
-			(at 331.47 152.3999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 331.47 154.9399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 328.6252 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1007_X8R_ULTRA_150C_SMD.pdf"
-			(at 327.66 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 327.66 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "KEMET"
-			(at 327.66 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Unit price" "$0.10"
-			(at 327.66 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DigiKey Part Number" ""
-			(at 327.66 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "aaa10ad9-9a5b-4b31-9af1-8b2fce78e820")
-		)
-		(pin "1"
-			(uuid "43068743-209e-4894-a08c-02ebbda9c2fa")
-		)
-		(instances
-			(project "STM32F411_JE"
-				(path "/cc6eeeb5-b58a-47ad-9a4d-b3db7a936e8a"
-					(reference "C9")
 					(unit 1)
 				)
 			)
