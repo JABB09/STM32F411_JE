@@ -889,7 +889,7 @@
 		(descr "SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "D1"
-			(at 0.437501 2.5 90)
+			(at 2.5 0 90)
 			(layer "F.SilkS")
 			(uuid "282312d1-ca9d-42f3-9486-f73d9d5ee55d")
 			(effects
@@ -4309,7 +4309,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R2"
-			(at -0.5 1.5 0)
+			(at 2.5 0 0)
 			(layer "F.SilkS")
 			(uuid "96f4fef2-687d-4fad-a65d-79a124915651")
 			(effects
@@ -4549,7 +4549,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C4"
-			(at 0 -1.43 0)
+			(at -2.5 0 0)
 			(layer "F.SilkS")
 			(uuid "5425b204-8af6-41a4-8a04-0e9081ba42f6")
 			(effects
@@ -5367,7 +5367,7 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D2"
-			(at 0 -1.5 0)
+			(at -2.5 0 0)
 			(layer "F.SilkS")
 			(uuid "71be859f-e5dd-402b-b9b3-a836aac63e8e")
 			(effects
@@ -7622,7 +7622,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R1"
-			(at -0.5 -1.5 0)
+			(at -2.5 0 0)
 			(layer "F.SilkS")
 			(uuid "6073c310-6a95-4be5-abac-82255ff5c3e1")
 			(effects
@@ -9096,7 +9096,7 @@
 		(descr "SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "D3"
-			(at 0 2.5 90)
+			(at -2.5 0 90)
 			(layer "F.SilkS")
 			(uuid "9119ce40-08cb-4dd1-b879-1d1623f82a48")
 			(effects
@@ -9866,7 +9866,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C3"
-			(at 0 -1.43 0)
+			(at 2.5 0 0)
 			(layer "F.SilkS")
 			(uuid "1c0343ac-588a-433a-92ea-1acd763a999f")
 			(effects
@@ -10362,5 +10362,533 @@
 		(fill none)
 		(layer "Edge.Cuts")
 		(uuid "fa501238-0db2-4cd4-9ba5-20d9d6e692ba")
+	)
+	(gr_text "B15\n"
+		(at 77.24 38 0)
+		(layer "F.SilkS")
+		(uuid "00a3dcee-ae90-4c7c-a3d6-c6b9de9f0505")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "B3"
+		(at 59.46 38 0)
+		(layer "F.SilkS")
+		(uuid "03ff21cc-8e94-4647-9dcf-3ef12d96e5e1")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "GND"
+		(at 39.14 38 0)
+		(layer "F.SilkS")
+		(uuid "04c2805b-063e-4e67-87fb-7ea7ae7fc9c0")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "GND\n"
+		(at 82.32 19 0)
+		(layer "F.SilkS")
+		(uuid "0a6c4df8-8e67-43f8-9983-70acaed50c6b")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "3.3V\n"
+		(at 80 19 0)
+		(layer "F.SilkS")
+		(uuid "189c62b5-dad0-4d2e-b6d1-b9cf70359fda")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "5V"
+		(at 41.68 38 0)
+		(layer "F.SilkS")
+		(uuid "1e10bf76-46cb-4c59-8bc3-1c9a412da694")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "GND"
+		(at 85.5 32.495 0)
+		(layer "F.SilkS")
+		(uuid "234506f6-39a8-4f0b-bc31-86f651646e30")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "SWDIO"
+		(at 85 27.415 0)
+		(layer "F.SilkS")
+		(uuid "284dd934-817a-47cd-9e32-7e89db42144f")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "B4"
+		(at 56.92 38 0)
+		(layer "F.SilkS")
+		(uuid "2c672401-9d5b-4762-a8d2-88902cf7e955")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "3.3V\n"
+		(at 36.6 38 0)
+		(layer "F.SilkS")
+		(uuid "2fbbf769-6805-43d3-8dea-1aaeb1184647")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "A8"
+		(at 74.7 38 0)
+		(layer "F.SilkS")
+		(uuid "2fdddae5-b823-474c-9d7a-f45efa6018ac")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "B12\n"
+		(at 84.86 38 0)
+		(layer "F.SilkS")
+		(uuid "3434f715-df3e-48da-93c1-56b73ba63bc3")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "A7\n"
+		(at 67.08 19 0)
+		(layer "F.SilkS")
+		(uuid "344d1425-a80c-472b-9515-3d06b77ee9a7")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "A1"
+		(at 51.84 19 0)
+		(layer "F.SilkS")
+		(uuid "3f371bc4-7c81-459f-b766-d63ca123d3d6")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "A5\n"
+		(at 62 19 0)
+		(layer "F.SilkS")
+		(uuid "40b8536e-4f7d-40e5-9801-618058bd03b9")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "C15\n"
+		(at 44.22 19 0)
+		(layer "F.SilkS")
+		(uuid "53497862-9eb2-4722-a4de-09c2e2894787")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "NRST\n"
+		(at 46.76 19 0)
+		(layer "F.SilkS")
+		(uuid "575bfc6c-f269-4df1-bf3b-9ac7f9b66ecb")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "SWCLK"
+		(at 85 29.955 0)
+		(layer "F.SilkS")
+		(uuid "691101c0-5ba9-430b-8c82-ee4ab7c46a3e")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "B9"
+		(at 44.22 38 0)
+		(layer "F.SilkS")
+		(uuid "6db6c7d5-226a-418d-8548-8c4b9dea43ac")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "B13\n"
+		(at 82.32 38 0)
+		(layer "F.SilkS")
+		(uuid "764a0f4f-57e8-4865-b867-a77b14db64c4")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "B1\n"
+		(at 72.16 19 0)
+		(layer "F.SilkS")
+		(uuid "7c2178cc-db49-4c61-8c28-1e0aad6fe2b3")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "B14\n"
+		(at 79.78 38 0)
+		(layer "F.SilkS")
+		(uuid "7c36e161-3d86-476e-85c7-13e160bb20bd")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "A3\n"
+		(at 56.92 19 0)
+		(layer "F.SilkS")
+		(uuid "7c684d62-f7df-446a-8867-e74e2baadadf")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "B7"
+		(at 49.3 38 0)
+		(layer "F.SilkS")
+		(uuid "7e9eae8b-85f1-479c-a738-17ffb4fac66b")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "A11"
+		(at 67.08 38 0)
+		(layer "F.SilkS")
+		(uuid "7f552487-462f-4d10-aef1-4aa3dfc01559")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "3.3V"
+		(at 85.5 24.875 0)
+		(layer "F.SilkS")
+		(uuid "830cb953-8210-4c15-82fb-4e4984b4970a")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "5V"
+		(at 84.86 19 0)
+		(layer "F.SilkS")
+		(uuid "84bcd251-f546-4422-b2fe-b1634bf85194")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "C13\n"
+		(at 39.14 19 0)
+		(layer "F.SilkS")
+		(uuid "8a9d7882-6ad6-4324-9b8b-3565288fb718")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "VB"
+		(at 36.6 19 0)
+		(layer "F.SilkS")
+		(uuid "957c6124-9b25-4a3d-86d6-3119d4ce3f73")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "B10\n"
+		(at 77.24 19 0)
+		(layer "F.SilkS")
+		(uuid "9f3c21a6-b879-4775-80c6-d43c87605a6a")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "A12"
+		(at 64.54 38 0)
+		(layer "F.SilkS")
+		(uuid "a1660f13-f39e-4f0a-abf1-3a82ed0ad19f")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "A2"
+		(at 54.38 18.94412 0)
+		(layer "F.SilkS")
+		(uuid "a226c715-dadc-4bd4-9ea1-f3b948a556e9")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "C14"
+		(at 41.68 19 0)
+		(layer "F.SilkS")
+		(uuid "a2a1d139-80c7-4987-b450-eec428892350")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "B0\n"
+		(at 69.62 19 0)
+		(layer "F.SilkS")
+		(uuid "a817c948-56da-4b2f-9d9b-b2a693da09b6")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "B2\n"
+		(at 74.7 19 0)
+		(layer "F.SilkS")
+		(uuid "b08fac96-b437-480e-873c-7beb31e1843e")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "B8"
+		(at 46.76 38 0)
+		(layer "F.SilkS")
+		(uuid "b82c0343-39c8-438a-ad9c-7bf6acbcdc32")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "B6"
+		(at 51.84 38 0)
+		(layer "F.SilkS")
+		(uuid "c0ac32f8-e33a-48b0-be60-e052125784bd")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "A4\n"
+		(at 59.46 19 0)
+		(layer "F.SilkS")
+		(uuid "c2cc3d33-756f-428e-af41-c4b2811d6f30")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "A6\n"
+		(at 64.54 19 0)
+		(layer "F.SilkS")
+		(uuid "d65ed2a1-a666-4d68-aec3-61952cdf82ac")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "B5"
+		(at 54.38 38 0)
+		(layer "F.SilkS")
+		(uuid "de259d25-cdb0-44fd-b522-65c6c2cab3d9")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "A10"
+		(at 69.62 38 0)
+		(layer "F.SilkS")
+		(uuid "e795ca9f-f62e-4f11-959a-d232a1371f1a")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "A15"
+		(at 62 38 0)
+		(layer "F.SilkS")
+		(uuid "ea4e12a7-65bb-4b14-9f23-26c2305f4dd2")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "A9"
+		(at 72.16 38 0)
+		(layer "F.SilkS")
+		(uuid "f5346bb3-1644-40f0-a5a9-a8920c3229c2")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "A0\n"
+		(at 49.3 19 0)
+		(layer "F.SilkS")
+		(uuid "f5ec7848-f752-4c72-aa29-b3ff206a9a46")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
 	)
 )
